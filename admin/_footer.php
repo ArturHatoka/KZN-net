@@ -22,15 +22,5 @@
     </div>
 </section>
 </div>
-<!-- Begin LeadBack code {literal} -->
-<script>
-    var _emv = _emv || [];
-    _emv['campaign'] = '54492a880833125468b368b1';
-
-    (function() {
-        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
-        em.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'leadback.ru/js/leadback.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
-    })();
-</script>
-<!-- End LeadBack code {/literal} -->
+<?=$additional[12]?>
+<?=$additional[14]?>

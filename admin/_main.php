@@ -134,7 +134,7 @@
             <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
             <div class="tour-inputs">
                 <div class="inputs_block">
-                    <form id="tour--make_order" method="post" name="drop-box" action="/mail/send-mail.php">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
                         <input type="hidden" id="request" name="main_request" value="Основная заявка">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
@@ -143,7 +143,7 @@
                         <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
                         </span>
                         <span class="inp-req">
-                        <input id="rqadres" name="adres" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
                         </span>
                         <span class="inp-req">
                         <input type="submit" class="search-button" value="Оставить заявку">
@@ -163,6 +163,278 @@
                 <div id="result">
                     <p class="res_p">Ваша заявка принята, спасибо за обращение</p>
                     <h2><a href="#close">ЗАКРЫТЬ</a></h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="callback-i1" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="ФИТ Интернет 100 Супер">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i2" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="1-ая космическая">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i3" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="Звезда 100 АКЦИЯ">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i4" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="Для интернета">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="callback-i+tv1" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="Для впечатлений">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i+tv2" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="Отличный ФИТ 2в1">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i+tv3" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="ФИТ 100 + ЦТВ">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i+tv4" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="Мне нравится XS">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i+tv5" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="50 Мбит+ТВ">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="callback-i+tv6" class="modalDialog">
+    <div class="callbody">
+        <div class="backcall">
+            <a href="#close" title="Закрыть" class="close">X</a>
+            <h2 class="call-modal-h2">Оставьте заявку и мы свяжемся с Вами в течение нескольких минут!</h2>
+            <div class="tour-inputs">
+                <div class="inputs_block">
+                    <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
+                        <input type="hidden" id="request" name="main_request" value="100 Мбит+ТВ">
+                        <span class="inp-req">
+                        <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req inp-req-marg">
+                        <input id="rqtelephone" name="telephone" type="text" required="" placeholder="Номер телефона" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input id="rqaddress" name="address" type="text" required="" placeholder="Ваш адрес" autocomplete="off" class="suggestions-input">
+                        </span>
+                        <span class="inp-req">
+                        <input type="submit" class="search-button" value="Оставить заявку">
+                        </span>
+                    </form>
                 </div>
             </div>
         </div>
