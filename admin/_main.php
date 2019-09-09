@@ -177,7 +177,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="ФИТ Интернет 100 Супер">
+                        <input type="hidden" id="request" name="main_request" value="МТС Тариф: ФИТ Интернет 100 Супер">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -204,7 +204,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="1-ая космическая">
+                        <input type="hidden" id="request" name="main_request" value="ДОМРУ Тариф: 1-ая космическая">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -231,7 +231,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="Звезда 100 АКЦИЯ">
+                        <input type="hidden" id="request" name="main_request" value="ТАТТЕЛЕКОМ Тариф: Звезда 100 АКЦИЯ">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -258,7 +258,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="Для интернета">
+                        <input type="hidden" id="request" name="main_request" value="РОСТЕЛЕКОМ Тариф: Для интернета">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -286,7 +286,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="Для впечатлений">
+                        <input type="hidden" id="request" name="main_request" value="РОСТЕЛЕКОМ Тариф: Для впечатлений">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -313,7 +313,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="Отличный ФИТ 2в1">
+                        <input type="hidden" id="request" name="main_request" value="МТС Тариф: Отличный ФИТ 2в1">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -340,7 +340,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="ФИТ 100 + ЦТВ">
+                        <input type="hidden" id="request" name="main_request" value="МТС Тариф: ФИТ 100 + ЦТВ">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -367,7 +367,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="Мне нравится XS">
+                        <input type="hidden" id="request" name="main_request" value="ДОМРУ Тариф: Мне нравится XS">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>
@@ -421,7 +421,7 @@
             <div class="tour-inputs">
                 <div class="inputs_block">
                     <form id="tour--make_order" method="post" name="drop-box" action="/assets/app/mail/send-mail.php">
-                        <input type="hidden" id="request" name="main_request" value="100 Мбит+ТВ">
+                        <input type="hidden" id="request" name="main_request" value="ТАТТЕЛЕКОМ Тариф: 100 Мбит+ТВ">
                         <span class="inp-req">
                         <input id="rqname" name="name" type="text" required="" placeholder="Ваше имя" autocomplete="off" class="suggestions-input">
                         </span>

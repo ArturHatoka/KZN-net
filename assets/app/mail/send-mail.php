@@ -21,7 +21,7 @@ $main_request = trim($main_request);
 
 if (mail("asmoday2011666@mail.ru",
     "Сообщение с сайта",
-    "Тариф: ".$main_request."\nИмя: ".$name. "\nТелефон: ".$telephone. "\nАдрес:\n".$address))
+    "Провайдер: ".$main_request."\nИмя: ".$name. "\nТелефон: ".$telephone. "\nАдрес:\n".$address))
 {
     header("Location: /#endthx");
 } else {
